@@ -1,10 +1,11 @@
 
-AIM: To study and implement C++ Program Structure (Data Types).
+# AIM: To study and implement C++ Program Structure (Data Types).
 
-SOFTWARE REQUIRED:
+# SOFTWARE REQUIRED:
+
 Visual Studio
+# THEORY:
 
-THEORY:
 .)Data types specify the type of data that a variable can store. Whenever a variable is defined in C++, the compiler allocates some memory for that variable based on the data type with which it is declared as every data type requires a different amount of memory. C++ supports a wide variety of data types, and the programmer can select the data type appropriate to the needs of the application.
 
 .)Character Data Type (char) The character data type is used to store a single character. The keyword used to define a character is char. Its size is 1 byte, and it stores characters enclosed in single quotes (' '). It can generally store upto 256 characters according to their ASCII codes.
@@ -17,9 +18,11 @@ THEORY:
 
 .)Double Data Type (double) The double data type is used to store decimal numbers with higher precision. The keyword used to define double-precision floating-point numbers is double. Its size is 8 bytes (on 64-bit systems) and can store the values in the range from 1.7e-308 to 1.7e+308
 
-IMPLEMENTATION:
+# IMPLEMENTATION:
+
 In this code i have asked the user for input for various datatypes and i have printed out the type and the size of the datatype.
 To run this code, Copy the code in Visual Studio and run the program.
 
-CONCLUSION:
+# CONCLUSION:
+
 In this practical i discovered about various types of datatypes available in c++.
